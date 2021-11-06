@@ -1,5 +1,5 @@
 {
-    "name": "sonidos",
+    "name": "OLED Tic Tac Toe",
     "description": "",
     "dependencies": {
         "core": "*",
